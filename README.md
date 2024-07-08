@@ -45,7 +45,8 @@ Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo [
 
 ## Estrutura do Projeto
 
-\`\`\`plaintext
+
+```plaintext
 Todo-detran/
 ├── public/
 │   └── vite.svg
@@ -67,7 +68,7 @@ Todo-detran/
 ├── package.json
 ├── README.md
 └── vite.config.js
-\`\`\`
+```
 
 ## Contribuição
 
